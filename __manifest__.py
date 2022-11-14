@@ -31,4 +31,5 @@ Bosnian cities
         'views/enforce_cities.xml',
     ],
     "active": False,
+    'license': 'GPL-3',
 }
