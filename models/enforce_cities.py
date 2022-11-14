@@ -8,7 +8,11 @@ class ResPartner(models.Model):
 
     @api.depends('city_id')
     def set_city(self):
-       self.city = self.city_id.name
-       self.zip = self.city_id.zipcode
+       for partner in self:
+          partner.city = partner.city_id.name
+          partner.zip = partner.city_id.zipcode
+          partner.state_id = partner.city_id.state_id
+          partner.country_id = partner.city_id.country_id
+
 
     city = fields.Char(compute=set_city, store=True)
