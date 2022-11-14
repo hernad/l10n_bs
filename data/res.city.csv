@@ -1,0 +1,5 @@
+id,country_id/id,name,zipcode,state_id/id
+city_ba_ze,base.ba,Zenica,72000,l10n_bs.state_ba_k_ze
+city_ba_tz,base.ba,Tuzla,75000,l10n_bs.state_ba_k_tz
+city_ba_sa,base.ba,Sarajevo,71000,l10n_bs.state_ba_k_sa
+
