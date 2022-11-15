@@ -48,16 +48,16 @@ city_ba_71305,base.ba,Donje Moštre,71305,l10n_bs.state_ba_ef
 city_ba_70220,base.ba,Donji Vakuf,70220,l10n_bs.state_ba_ef
 city_ba_88215,base.ba,Drežnica,88215,l10n_bs.state_ba_ef
 city_ba_79290,base.ba,Drinić,79290,l10n_bs.state_ba_er
-city_ba_75410,base.ba,Drinjača (Zvornik),75410,l10n_bs.state_ba_er
-city_ba_80260,base.ba,Drvar,80260,l10n_bs.state_ba_ef
-city_ba_75272,base.ba,Đurđevik,75272,l10n_bs.state_ba_ef
-city_ba_73302,Foča,73302,l10n_bs.state_ba_er
-city_ba_71270,Fojnica,71270,l10n_bs.state_ba_ef
-city_ba_89240,Gacko,89240,l10n_bs.state_ba_er
 city_ba_80230,base.ba,Glamoč,80230,l10n_bs.state_ba_ef
 city_ba_88406,base.ba,Glavatičevo,88406,l10n_bs.state_ba_ef
-city_ba_73101,base.ba,Goražde,73101,l10n_bs.state_ba_ef
-city_ba_75208,base.ba,Gornja Tuzla,75208,l10n_bs.state_ba_ef
+city_ba_73101,base.ba,Goražde,73101,l10n_bs.state_ba_k_bp
+city_ba_75208,base.ba,Gornja Tuzla,75208,l10n_bs.state_ba_k_tz
+city_ba_73302,base.ba,Foča,73302,l10n_bs.state_ba_er
+city_ba_80260,base.ba,Drvar,80260,l10n_bs.state_ba_ef
+city_ba_75272,base.ba,Đurđevik,75272,l10n_bs.state_ba_ef
+city_ba_75410,base.ba,Drinjača (Zvornik),75410,l10n_bs.state_ba_er
+city_ba_71270,base.ba,Fojnica,71270,l10n_bs.state_ba_ef
+city_ba_89240,base.ba,Gacko,89240,l10n_bs.state_ba_er
 city_ba_76207,base.ba,Gornji Rahić,76207,l10n_bs.state_ba_ef
 city_ba_70240,base.ba,Gornji Vakuf,70240,l10n_bs.state_ba_ef
 city_ba_75320,base.ba,Gračanica,75320,l10n_bs.state_ba_ef
@@ -200,7 +200,7 @@ city_ba_76330,base.ba,Ugljevik,76330,l10n_bs.state_ba_er
 city_ba_70280,base.ba,Uskoplje,70280,l10n_bs.state_ba_ef
 city_ba_73250,base.ba,Ustikolina,73250,l10n_bs.state_ba_ef
 city_ba_88444,base.ba,Uzdol,88444,l10n_bs.state_ba_ef
-city_ba_71330,base.ba,Vareš,71330,l10n_bs.l10n_bs.state_ba_k_ze
+city_ba_71330,base.ba,Vareš,71330,l10n_bs.state_ba_k_ze
 city_ba_77230,base.ba,Velika Kladuša,77230,l10n_bs.state_ba_k_usk
 city_ba_70202,base.ba,Vinac,70202,l10n_bs.state_ba_ef
 city_ba_71300,base.ba,Visoko,71300,l10n_bs.state_ba_k_ze
