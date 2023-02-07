@@ -4,7 +4,7 @@ city_ba_tz,base.ba,Tuzla,75000,l10n_bs.state_ba_k_tz
 city_ba_sa,base.ba,Sarajevo,71000,l10n_bs.state_ba_k_sa
 city_ba_78255,base.ba,Aleksandrovac,78255,l10n_bs.state_ba_er
 city_ba_72286,base.ba,Babanovac,72286,l10n_bs.state_ba_ef
-city_ba_75290,base.ba,Banovići,75290,l10n_bs.state_ba_ef
+city_ba_75290,base.ba,Banovići,75290,l10n_bs.state_ba_k_tz
 city_ba_78000,base.ba,Banja Luka,78000,l10n_bs.state_ba_er
 city_ba_72233,base.ba,Begov Han,72233,l10n_bs.state_ba_ef
 city_ba_77000,base.ba,Bihać,77000,l10n_bs.state_ba_ef
@@ -60,7 +60,7 @@ city_ba_71270,base.ba,Fojnica,71270,l10n_bs.state_ba_ef
 city_ba_89240,base.ba,Gacko,89240,l10n_bs.state_ba_er
 city_ba_76207,base.ba,Gornji Rahić,76207,l10n_bs.state_ba_ef
 city_ba_70240,base.ba,Gornji Vakuf,70240,l10n_bs.state_ba_ef
-city_ba_75320,base.ba,Gračanica,75320,l10n_bs.state_ba_ef
+city_ba_75320,base.ba,Gračanica,75320,l10n_bs.state_ba_k_tz
 city_ba_76250,base.ba,Gradačac,76250,l10n_bs.state_ba_ef
 city_ba_88340,base.ba,Grude,88340,l10n_bs.state_ba_ef
 city_ba_72277,base.ba,Guča Gora,72277,l10n_bs.state_ba_ef
