@@ -1,10 +1,10 @@
-id,country_id/id,name,zipcode,state_id/id
-city_ba_ze,base.ba,Zenica,72000,l10n_bs.state_ba_k_ze
-city_ba_tz,base.ba,Tuzla,75000,l10n_bs.state_ba_k_tz
-city_ba_sa,base.ba,Sarajevo,71000,l10n_bs.state_ba_k_sa
+id,country_id/id,name,zipcode,state_id/id,code
+city_ba_ze,base.ba,Zenica,72000,l10n_bs.state_ba_k_ze,103 
+city_ba_tz,base.ba,Tuzla,75000,l10n_bs.state_ba_k_tz,094
+city_ba_sa,base.ba,Sarajevo Centar,71000,l10n_bs.state_ba_k_sa,077 
 city_ba_78255,base.ba,Aleksandrovac,78255,l10n_bs.state_ba_er
 city_ba_72286,base.ba,Babanovac,72286,l10n_bs.state_ba_ef
-city_ba_75290,base.ba,Banovići,75290,l10n_bs.state_ba_k_tz
+city_ba_75290,base.ba,Banovići,75290,l10n_bs.state_ba_k_tz,001
 city_ba_78000,base.ba,Banja Luka,78000,l10n_bs.state_ba_er
 city_ba_72233,base.ba,Begov Han,72233,l10n_bs.state_ba_ef
 city_ba_77000,base.ba,Bihać,77000,l10n_bs.state_ba_ef
@@ -60,7 +60,7 @@ city_ba_71270,base.ba,Fojnica,71270,l10n_bs.state_ba_ef
 city_ba_89240,base.ba,Gacko,89240,l10n_bs.state_ba_er
 city_ba_76207,base.ba,Gornji Rahić,76207,l10n_bs.state_ba_ef
 city_ba_70240,base.ba,Gornji Vakuf,70240,l10n_bs.state_ba_ef
-city_ba_75320,base.ba,Gračanica,75320,l10n_bs.state_ba_k_tz
+city_ba_75320,base.ba,Gračanica,75320,l10n_bs.state_ba_k_tz,035
 city_ba_76250,base.ba,Gradačac,76250,l10n_bs.state_ba_ef
 city_ba_88340,base.ba,Grude,88340,l10n_bs.state_ba_ef
 city_ba_72277,base.ba,Guča Gora,72277,l10n_bs.state_ba_ef
@@ -71,7 +71,7 @@ city_ba_71360,base.ba,Han Pijesak,71360,l10n_bs.state_ba_er
 city_ba_75216,base.ba,Husino,75216,l10n_bs.state_ba_ef
 city_ba_88394,base.ba,Hutovo,88394,l10n_bs.state_ba_ef
 city_ba_71210,base.ba,Ilidža,71210,l10n_bs.state_ba_ef
-city_ba_71380,base.ba,Ilijaš,71380,l10n_bs.state_ba_ef
+city_ba_71380,base.ba,Ilijaš,71380,l10n_bs.state_ba_ef,040
 city_ba_71123,base.ba,Istočno Sarajevo,71123,l10n_bs.state_ba_er
 city_ba_77208,base.ba,Izačić,77208,l10n_bs.state_ba_ef
 city_ba_88420,base.ba,Jablanica,88420,l10n_bs.state_ba_ef
@@ -81,7 +81,7 @@ city_ba_72215,base.ba,Janjići,72215,l10n_bs.state_ba_k_ze
 city_ba_74264,base.ba,Jelah,74264,l10n_bs.state_ba_ef
 city_ba_70206,base.ba,Jezero,70206,l10n_bs.state_ba_er
 city_ba_72264,base.ba,Kaćuni,72264,l10n_bs.state_ba_ef
-city_ba_72240,base.ba,Kakanj,72240,l10n_bs.state_ba_k_ze
+city_ba_72240,base.ba,Kakanj,72240,l10n_bs.state_ba_k_ze,043
 city_ba_75260,base.ba,Kalesija,75260,l10n_bs.state_ba_k_tz
 city_ba_71230,base.ba,Kalinovik,71230,l10n_bs.state_ba_er
 city_ba_70235,base.ba,Karadže,70235,l10n_bs.state_ba_ef
@@ -115,7 +115,7 @@ city_ba_75240,base.ba,Lopare,75240,l10n_bs.state_ba_er
 city_ba_75300,base.ba,Lukavac,75300,l10n_bs.state_ba_k_tz
 city_ba_79206,base.ba,Ljubija,79206,l10n_bs.state_ba_er
 city_ba_88320,base.ba,Ljubuški,88320,l10n_bs.state_ba_ef
-city_ba_74250,base.ba,Maglaj,74250,l10n_bs.state_ba_k_ze
+city_ba_74250,base.ba,Maglaj,74250,l10n_bs.state_ba_k_ze,060
 city_ba_74216,base.ba,Majevac,74216,l10n_bs.state_ba_er
 city_ba_76208,base.ba,Maoča,76208,l10n_bs.state_ba_ef
 city_ba_74203,base.ba,Matuzići,74203,l10n_bs.state_ba_k_ze
@@ -173,7 +173,7 @@ city_ba_71350,base.ba,Sokolac,71350,l10n_bs.state_ba_er
 city_ba_75430,base.ba,Srebrenica,75430,l10n_bs.state_ba_er
 city_ba_75350,base.ba,Srebrenik,75350,l10n_bs.state_ba_k_tz
 city_ba_71385,base.ba,Srednje (FBiH),71385,l10n_bs.state_ba_k_sa
-city_ba_72251,base.ba,Stari Vitez,72251,l10n_bs.state_ba_k_sb
+city_ba_72251,base.ba,Stari Vitez,72251,l10n_bs.state_ba_k_sb,100
 city_ba_75324,base.ba,Stjepan Polje,75324,l10n_bs.state_ba_ef
 city_ba_88360,base.ba,Stolac,88360,l10n_bs.state_ba_ef
 city_ba_72209,base.ba,Stranjani,72209,l10n_bs.state_ba_k_ze
@@ -217,5 +217,5 @@ city_ba_78214,base.ba,Zalužani,78214,l10n_bs.state_ba_er
 city_ba_72220,base.ba,Zavidovići,72220,l10n_bs.state_ba_k_ze
 city_ba_75400,base.ba,Zvornik,75400,l10n_bs.state_ba_er
 city_ba_72236,base.ba,Željezno Polje,72236,l10n_bs.state_ba_k_ze
-city_ba_72230,base.ba,Žepče,72230,l10n_bs.state_ba_k_ze
-city_ba_75270,base.ba,Živinice,75270,l10n_bs.state_ba_k_tz
+city_ba_72230,base.ba,Žepče,72230,l10n_bs.state_ba_k_ze,105
+city_ba_75270,base.ba,Živinice,75270,l10n_bs.state_ba_k_tz,106

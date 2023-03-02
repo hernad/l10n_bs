@@ -16,3 +16,8 @@ class ResPartner(models.Model):
 
 
     city = fields.Char(compute=set_city, store=True)
+
+class ResCity(models.Model):
+   _inherit = 'res.city'
+
+   code = fields.Char(string='Šifra JP')
