@@ -1,7 +1,7 @@
 id,country_id/id,name,zipcode,state_id/id,code
-city_ba_ze,base.ba,Zenica,72000,l10n_bs.state_ba_k_ze,103 
+city_ba_ze,base.ba,Zenica,72000,l10n_bs.state_ba_k_ze,103
 city_ba_tz,base.ba,Tuzla,75000,l10n_bs.state_ba_k_tz,094
-city_ba_sa,base.ba,Sarajevo Centar,71000,l10n_bs.state_ba_k_sa,077 
+city_ba_sa,base.ba,Sarajevo Centar,71000,l10n_bs.state_ba_k_sa,077
 city_ba_78255,base.ba,Aleksandrovac,78255,l10n_bs.state_ba_er
 city_ba_72286,base.ba,Babanovac,72286,l10n_bs.state_ba_ef
 city_ba_75290,base.ba,Banovići,75290,l10n_bs.state_ba_k_tz,001
@@ -205,7 +205,7 @@ city_ba_77230,base.ba,Velika Kladuša,77230,l10n_bs.state_ba_k_usk
 city_ba_70202,base.ba,Vinac,70202,l10n_bs.state_ba_ef
 city_ba_71300,base.ba,Visoko,71300,l10n_bs.state_ba_k_ze
 city_ba_73240,base.ba,Višegrad,73240,l10n_bs.state_ba_er
-city_ba_72250,base.ba,Vitez,72250,l10n_bs.state_ba_k_sb
+city_ba_72250,base.ba,Vitez,72250,l10n_bs.state_ba_k_sb,100
 city_ba_73205,base.ba,Vitkovići,73205,l10n_bs.state_ba_k_bp
 city_ba_75440,base.ba,Vlasenica,75440,l10n_bs.state_ba_er
 city_ba_71320,base.ba,Vogošća,71320,l10n_bs.state_ba_k_sa
