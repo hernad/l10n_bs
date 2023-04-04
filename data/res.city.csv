@@ -23,9 +23,9 @@ city_ba_80270,base.ba,Bosansko Grahovo,80270,l10n_bs.state_ba_ef
 city_ba_75420,base.ba,Bratunac,75420,l10n_bs.state_ba_er
 city_ba_76100,base.ba,Brčko,76100,l10n_bs.state_ba_bd
 city_ba_71370,base.ba,Breza,71370,l10n_bs.state_ba_ef
-city_ba_70230,base.ba,Bugojno,70230,l10n_bs.state_ba_ef
+city_ba_70230,base.ba,Bugojno,70230,l10n_bs.state_ba_ef,017
 city_ba_88202,base.ba,Buna,88202,l10n_bs.state_ba_ef
-city_ba_72260,base.ba,Busovača,72260,l10n_bs.state_ba_k_sb
+city_ba_72260,base.ba,Busovača,72260,l10n_bs.state_ba_k_sb,018
 city_ba_88409,base.ba,Buturović Polje,88409,l10n_bs.state_ba_ef
 city_ba_77245,base.ba,Bužim,77245,l10n_bs.state_ba_ef
 city_ba_77220,base.ba,Cazin,77220,l10n_bs.state_ba_ef
@@ -56,7 +56,7 @@ city_ba_73302,base.ba,Foča,73302,l10n_bs.state_ba_er
 city_ba_80260,base.ba,Drvar,80260,l10n_bs.state_ba_ef
 city_ba_75272,base.ba,Đurđevik,75272,l10n_bs.state_ba_ef
 city_ba_75410,base.ba,Drinjača (Zvornik),75410,l10n_bs.state_ba_er
-city_ba_71270,base.ba,Fojnica,71270,l10n_bs.state_ba_ef
+city_ba_71270,base.ba,Fojnica,71270,l10n_bs.state_ba_ef,030
 city_ba_89240,base.ba,Gacko,89240,l10n_bs.state_ba_er
 city_ba_76207,base.ba,Gornji Rahić,76207,l10n_bs.state_ba_ef
 city_ba_70240,base.ba,Gornji Vakuf,70240,l10n_bs.state_ba_ef
@@ -75,7 +75,7 @@ city_ba_71380,base.ba,Ilijaš,71380,l10n_bs.state_ba_ef,040
 city_ba_71123,base.ba,Istočno Sarajevo,71123,l10n_bs.state_ba_er
 city_ba_77208,base.ba,Izačić,77208,l10n_bs.state_ba_ef
 city_ba_88420,base.ba,Jablanica,88420,l10n_bs.state_ba_ef
-city_ba_70101,base.ba,Jajce,70101,l10n_bs.state_ba_ef
+city_ba_70101,base.ba,Jajce,70101,l10n_bs.state_ba_ef,042
 city_ba_76316,base.ba,Janja,76316,l10n_bs.state_ba_er
 city_ba_72215,base.ba,Janjići,72215,l10n_bs.state_ba_k_ze
 city_ba_74264,base.ba,Jelah,74264,l10n_bs.state_ba_ef
@@ -135,7 +135,7 @@ city_ba_72276,base.ba,Nova Bila,72276,l10n_bs.state_ba_ef
 city_ba_75445,base.ba,Nova Kasaba,75445,l10n_bs.state_ba_er
 city_ba_79220,base.ba,Novi Grad (Bosanski Novi),79220,l10n_bs.state_ba_er
 city_ba_74254,base.ba,Novi Šeher,74254,l10n_bs.state_ba_ef
-city_ba_72290,base.ba,Novi Travnik,72290,l10n_bs.state_ba_ef
+city_ba_72290,base.ba,Novi Travnik,72290,l10n_bs.state_ba_ef,091
 city_ba_73110,base.ba,Novo Goražde,73110,l10n_bs.state_ba_er
 city_ba_76290,base.ba,Odžak,76290,l10n_bs.state_ba_ef
 city_ba_75323,base.ba,Orahovica Donja,75323,l10n_bs.state_ba_ef
