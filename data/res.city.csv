@@ -188,7 +188,7 @@ city_ba_80249,base.ba,Šujica,80249,l10n_bs.state_ba_k_ze
 city_ba_71244,base.ba,Tarčin,71244,l10n_bs.state_ba_k_sa
 city_ba_75414,base.ba,Teočak,75414,l10n_bs.state_ba_ef
 city_ba_74270,base.ba,Teslić,74270,l10n_bs.state_ba_er
-city_ba_74260,base.ba,Tešanj,74260,l10n_bs.state_ba_k_ze
+city_ba_74260,base.ba,Tešanj,74260,l10n_bs.state_ba_k_ze,090
 city_ba_74266,base.ba,Tešanjka,74266,l10n_bs.state_ba_k_ze
 city_ba_73311,base.ba,Tjentište,73311,l10n_bs.state_ba_er
 city_ba_80240,base.ba,Tomislavgrad,80240,l10n_bs.state_ba_ef
@@ -200,10 +200,10 @@ city_ba_76330,base.ba,Ugljevik,76330,l10n_bs.state_ba_er
 city_ba_70280,base.ba,Uskoplje,70280,l10n_bs.state_ba_ef
 city_ba_73250,base.ba,Ustikolina,73250,l10n_bs.state_ba_ef
 city_ba_88444,base.ba,Uzdol,88444,l10n_bs.state_ba_ef
-city_ba_71330,base.ba,Vareš,71330,l10n_bs.state_ba_k_ze
+city_ba_71330,base.ba,Vareš,71330,l10n_bs.state_ba_k_ze,096
 city_ba_77230,base.ba,Velika Kladuša,77230,l10n_bs.state_ba_k_usk
 city_ba_70202,base.ba,Vinac,70202,l10n_bs.state_ba_ef
-city_ba_71300,base.ba,Visoko,71300,l10n_bs.state_ba_k_ze
+city_ba_71300,base.ba,Visoko,71300,l10n_bs.state_ba_k_ze,098
 city_ba_73240,base.ba,Višegrad,73240,l10n_bs.state_ba_er
 city_ba_72250,base.ba,Vitez,72250,l10n_bs.state_ba_k_sb,100
 city_ba_73205,base.ba,Vitkovići,73205,l10n_bs.state_ba_k_bp
@@ -214,7 +214,7 @@ city_ba_88113,base.ba,Vrapčići,88113,l10n_bs.state_ba_k_hn
 city_ba_74470,base.ba,Vukosavlje,74470,l10n_bs.state_ba_er
 city_ba_76333,base.ba,Zabrđe,76333,l10n_bs.state_ba_er
 city_ba_78214,base.ba,Zalužani,78214,l10n_bs.state_ba_er
-city_ba_72220,base.ba,Zavidovići,72220,l10n_bs.state_ba_k_ze
+city_ba_72220,base.ba,Zavidovići,72220,l10n_bs.state_ba_k_ze,102
 city_ba_75400,base.ba,Zvornik,75400,l10n_bs.state_ba_er
 city_ba_72236,base.ba,Željezno Polje,72236,l10n_bs.state_ba_k_ze
 city_ba_72230,base.ba,Žepče,72230,l10n_bs.state_ba_k_ze,105
