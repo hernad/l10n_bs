@@ -22,13 +22,23 @@ Bosnian cities
     'category': 'Localization',
     "website": "https://github.com/hernad/odoo",
     'depends': [
-        "base_address_extended"
+        "base_address_extended",
+        "account"
     ],
     'data': [
+        "data/account_chart_template_data_1.xml",
+        "data/account.account.template.csv",
+        "data/account_chart_template_data_2.xml",
+        "data/account.group.template.csv",
+        "data/account_tax_group_data.xml",
+        'data/account_tax_report_data.xml',
+        "data/account_tax_template_data.xml",
+        "data/account_chart_template_configure_data.xml",
         'data/country_enforce_cities.xml',
         'data/res.country.state.csv',
         'data/res.city.csv',
         'views/enforce_cities.xml',
+        "data/menuitem_data.xml",
     ],
     "active": False,
     'license': 'GPL-3',
